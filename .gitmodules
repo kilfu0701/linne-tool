@@ -1,0 +1,3 @@
+[submodule "src/py_tools"]
+    path = src/py_tools
+    url = https://github.com/kilfu0701/py_tools.git

@@ -3,8 +3,8 @@ import os
 import sys
 import codecs
 
-# import my py-tools. (Get it from 'https://github.com/kilfu0701/py-tools')
-#sys.path.append('/Users/fu/Desktop/github/py-tools')
+# import my py_tools. (Get it from 'https://github.com/kilfu0701/py_tools')
+#sys.path.append('/Users/fu/Desktop/github/py_tools')
 
 #try:
 #    from debug.debug import Debug as D
